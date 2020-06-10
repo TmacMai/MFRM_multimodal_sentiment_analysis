@@ -7,11 +7,5 @@ Pdf is available at:
 https://ieeexplore.ieee.org/document/9110792
 
 Cite the paper:
-@ARTICLE{9110792,
-  author={S. {Mai} and H. {Hu} and J. {Xu} and S. {Xing}},
-  journal={IEEE Transactions on Affective Computing}, 
-  title={Multi-Fusion Residual Memory Network for Multimodal Human Sentiment Comprehension}, 
-  year={2020},
-  volume={},
-  number={},
-  pages={1-1},}
+
+S. Mai, H. Hu, J. Xu and S. Xing, "Multi-Fusion Residual Memory Network for Multimodal Human Sentiment Comprehension," in IEEE Transactions on Affective Computing, doi: 10.1109/TAFFC.2020.3000510.
